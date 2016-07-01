@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<server>
+		<ping>
+			<srv>github.com</srv>
+			<srv1></srv1>
+			<srv2></srv2>
+		</ping>
+		<name>
+			<srv>FR</srv>
+			<srv1>US</srv1>
+			<srv2>NL</srv2>	
+		</name>
+		<startup>
+			<ping>True</ping>
+			<themedir>Default</themedir>
+		</startup>
+	</server>
+</config>
